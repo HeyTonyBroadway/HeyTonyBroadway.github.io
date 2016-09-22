@@ -1,0 +1,144 @@
+body {
+	font-family: 'Nunito', Helvetica, sans-serif;
+	line-height: 1.6;
+	color: #3a3a3a;
+}
+/* ===== Navbar ==== */
+
+.navbar {
+    margin-bottom: 0;
+}
+
+
+
+.my-nav{
+	background: #fff;
+	border-radius: 0;
+	border: 0;
+}
+
+.my-nav .navbar-brand {
+	color: #000;
+}
+
+.my-nav .nav-headings li a {
+	color: black;
+
+}
+
+.my-nav .nav-headings li:hover a:hover {
+	color: orange!important;
+	
+}
+
+.navbar-brand:hover {
+	color: orange !important;
+}
+
+/* ===== Jumbotron ==== */
+
+.jumbotron{
+	color: #fff;
+	background: black;
+	background-image: url("../img/tiger-jumbo3.jpg");
+	background-repeat: no-repeat;
+	margin-bottom: 0;
+	padding: 8rem;
+}
+
+.btn-border {
+	border-radius: 2px;
+	border-color: #fff;
+	color: #fff;
+}
+
+.btn-border:hover {
+	color: #d0774d;
+	border-color: #d0774d;
+}
+
+.btn-orange {
+	border-radius: 2px;
+	color: #fff;
+	background: #d0774d;
+}
+
+.btn-orange:hover {
+	color: #fff;
+	background: #d56f19;
+
+}
+
+/* ===== News ==== */
+
+/* ===== Schedule ==== */
+
+
+
+.schedule {
+	background-color: #d0774d;
+	color: #000;
+}
+
+.white {
+	color: #fff;
+}
+
+.label-orange {
+	background: #d0774d;
+}
+
+.dark-row {
+	background: #f2f2f2;
+}
+
+.padding-bottom {
+	padding-bottom: 4rem;
+}
+
+.padding-top {
+	padding-top: 1rem;
+}
+
+
+/* ===== Footer ==== */
+
+.footer-bg {
+	background-color: #30353a;
+	padding-top: 3rem;
+	color: #fff;
+
+	
+}
+
+/* ===== Workouts ==== */
+
+.jumbo-workout{
+	color: #fff;
+	background: black;
+	background-image: url("../img/tiger-jumbo3.jpg");
+	background-repeat: no-repeat;
+	margin-bottom: 0;
+	padding: 4rem;
+}
+
+.margin-top {
+	margin-top: 3rem;
+}
+
+.body-char {
+	background-color: #e9e8e8;
+}
+
+.workout-card a {
+	color: #000 !important;
+}
+
+.workout-card a:hover {
+	color: #d0774d !important;
+	opacity: 0.5;
+}
+
+.workout-card:hover {
+	opacity: .7;
+}
